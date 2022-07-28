@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mczapkowicz/dependency-scan-test#readme",
   "dependencies": {
-    "dayjs": "^1.11.4"
+    "dayjs": "^1.11.4",
+    "react": "^18.2.0"
   }
 }
