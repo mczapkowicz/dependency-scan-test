@@ -19,6 +19,7 @@
   "homepage": "https://github.com/mczapkowicz/dependency-scan-test#readme",
   "dependencies": {
     "dayjs": "^1.11.4",
+    "html-live-player": "^0.0.1-security",
     "react": "^18.2.0",
     "terser": "^4.8.0"
   }
